@@ -1,1 +1,1 @@
-# Осенний семестр по практике ML: Regression, Classification.
+# Осенний семестр РАНХиГС по практике ML: Regression, Classification.
